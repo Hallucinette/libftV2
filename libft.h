@@ -6,7 +6,7 @@
 /*   By: ampocchi <ampocchi@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/07 10:19:08 by ampocchi          #+#    #+#             */
-/*   Updated: 2025/01/22 16:46:54 by ampocchi         ###   ########.fr       */
+/*   Updated: 2025/01/22 16:56:55 by ampocchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include "get_next_line.h"
+# include "ft_printf.h"
 
 typedef struct s_list
 {

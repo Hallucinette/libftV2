@@ -6,7 +6,7 @@
 #    By: ampocchi <ampocchi@student.42madrid.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/12/06 23:32:01 by ampocchi          #+#    #+#              #
-#    Updated: 2025/01/22 16:47:21 by ampocchi         ###   ########.fr        #
+#    Updated: 2025/01/22 16:57:38 by ampocchi         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -50,7 +50,10 @@ SRCS    = ft_isalpha.c \
 		ft_striteri.c \
 		ft_strcat.c \
 		get_next_line.c \
-		get_next_line_utils.c
+		get_next_line_utils.c \
+		ft_printf_csdi.c \
+		ft_printf_xu.c \
+		ft_printf.c
 
 BON 	= ft_lstnew_bonus.c \
 			ft_lstadd_front_bonus.c \
